@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIProjects", "APIProjects", "{E428AAE5-488B-4527-9FCA-4649637C93CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonReviewApp", "APIProject-Folder\PokemonReviewApp\PokemonReviewApp.csproj", "{99760455-C60B-4FB8-8817-6EE3FBC54845}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MixedProblems", "MixedProblems", "{7D2A8ADB-B070-466D-B695-01A44432F09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalOperations", "MixedProblems-Folder\MathematicalOperations\MathematicalOperations.csproj", "{543D60EB-CDC2-444F-89EB-A712E08AA6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedArrays", "MixedProblems-Folder\NestedArrays\NestedArrays.csproj", "{EF8FB190-CA94-42E7-A41D-3DB35063B874}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoginOperations", "LoginOperations", "{727B539E-A4BD-4AB6-B098-7C5C6829B5AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginOperationsProject", "LoginOperations-Folder\LoginOperationsProject\LoginOperationsProject.csproj", "{0F7F1C40-55AC-48C9-9909-B6305A92B722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8FB190-CA94-42E7-A41D-3DB35063B874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8FB190-CA94-42E7-A41D-3DB35063B874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8FB190-CA94-42E7-A41D-3DB35063B874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8FB190-CA94-42E7-A41D-3DB35063B874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99760455-C60B-4FB8-8817-6EE3FBC54845} = {E428AAE5-488B-4527-9FCA-4649637C93CB}
+		{543D60EB-CDC2-444F-89EB-A712E08AA6C8} = {7D2A8ADB-B070-466D-B695-01A44432F09C}
+		{EF8FB190-CA94-42E7-A41D-3DB35063B874} = {7D2A8ADB-B070-466D-B695-01A44432F09C}
+		{0F7F1C40-55AC-48C9-9909-B6305A92B722} = {727B539E-A4BD-4AB6-B098-7C5C6829B5AC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB0F497-2429-40A0-8107-4D78F41FC16C}
+	EndGlobalSection
+EndGlobal

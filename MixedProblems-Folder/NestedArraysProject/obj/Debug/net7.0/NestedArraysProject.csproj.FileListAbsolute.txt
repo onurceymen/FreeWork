@@ -1,0 +1,15 @@
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\bin\Debug\net7.0\NestedArraysProject.exe
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\bin\Debug\net7.0\NestedArraysProject.deps.json
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\bin\Debug\net7.0\NestedArraysProject.runtimeconfig.json
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\bin\Debug\net7.0\NestedArraysProject.dll
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\bin\Debug\net7.0\NestedArraysProject.pdb
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.AssemblyInfo.cs
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.sourcelink.json
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.dll
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\refint\NestedArraysProject.dll
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.pdb
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\NestedArraysProject.genruntimeconfig.cache
+C:\Users\onurc\source\repos\Free\MixedProblems-Folder\NestedArraysProject\obj\Debug\net7.0\ref\NestedArraysProject.dll

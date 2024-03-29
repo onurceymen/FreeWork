@@ -3,51 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\FreeWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\pokemonreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\pokemonreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C6A2C0D4-E7FA-4ED6-95E5-05D0ED76799E}|HackerrankPreparation\\Hackerrank\\Hackerrank.csproj|c:\\users\\onurc\\source\\repos\\freework\\hackerrankpreparation\\hackerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2C0D4-E7FA-4ED6-95E5-05D0ED76799E}|HackerrankPreparation\\Hackerrank\\Hackerrank.csproj|solutionrelative:hackerrankpreparation\\hackerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}|APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp.tests\\pokemonreviewapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}|APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp.tests\\pokemonreviewapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}|APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp.tests\\controllers\\pokemoncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}|APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp.tests\\controllers\\pokemoncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}|APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp.tests\\repository\\pokemonrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}|APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp.tests\\repository\\pokemonrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|c:\\users\\onurc\\source\\repos\\freework\\apiproject-folder\\pokemonreviewapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99760455-C60B-4FB8-8817-6EE3FBC54845}|APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:apiproject-folder\\pokemonreviewapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\Free\\MixedProblems-Folder\\NestedArraysProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp.Tests\\Repository\\PokemonRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp.Tests\\Repository\\PokemonRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp.Tests\\Controllers\\PokemonControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp.Tests\\Controllers\\PokemonControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\CountryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Controllers\\CountryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\PokemonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Controllers\\PokemonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\OwnerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Controllers\\OwnerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIProject-Folder\\PokemonReviewApp\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,19 +66,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PokemonReviewApp",
-              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
-              "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
-              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
-              "RelativeToolTip": "APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\HackerrankPreparation\\Hackerrank\\Program.cs",
+              "RelativeDocumentMoniker": "HackerrankPreparation\\Hackerrank\\Program.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\HackerrankPreparation\\Hackerrank\\Program.cs",
+              "RelativeToolTip": "HackerrankPreparation\\Hackerrank\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-29T20:38:56.281Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:09:32.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PokemonReviewApp.csproj",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "RelativeToolTip": "APIProject-Folder\\PokemonReviewApp\\PokemonReviewApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T20:38:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PokemonReviewApp.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj",
@@ -82,12 +97,11 @@
               "RelativeToolTip": "APIProject-Folder\\PokemonReviewApp.Tests\\PokemonReviewApp.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-29T20:38:26.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T20:38:26.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Seed.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Seed.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Seed.cs",
@@ -111,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PokemonControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp.Tests\\Controllers\\PokemonControllerTests.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp.Tests\\Controllers\\PokemonControllerTests.cs",
@@ -123,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReviewerController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewerController.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewerController.cs",
@@ -135,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CountryController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Controllers\\CountryController.cs",
@@ -147,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ReviewController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Controllers\\ReviewController.cs",
@@ -159,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Controllers\\PokemonController.cs",
@@ -171,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "OwnerController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\OwnerController.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Controllers\\OwnerController.cs",
@@ -183,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\APIProject-Folder\\PokemonReviewApp\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "APIProject-Folder\\PokemonReviewApp\\Controllers\\CategoryController.cs",
@@ -195,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\Free\\MixedProblems-Folder\\NestedArraysProject\\Program.cs",
               "RelativeDocumentMoniker": "..\\Free\\MixedProblems-Folder\\NestedArraysProject\\Program.cs",

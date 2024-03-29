@@ -3,21 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIProjects", "APIProjects", "{E428AAE5-488B-4527-9FCA-4649637C93CB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PokemonAPI", "PokemonAPI", "{E428AAE5-488B-4527-9FCA-4649637C93CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonReviewApp", "APIProject-Folder\PokemonReviewApp\PokemonReviewApp.csproj", "{99760455-C60B-4FB8-8817-6EE3FBC54845}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MixedProblems", "MixedProblems", "{7D2A8ADB-B070-466D-B695-01A44432F09C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathematicalOperations", "MixedProblems-Folder\MathematicalOperations\MathematicalOperations.csproj", "{543D60EB-CDC2-444F-89EB-A712E08AA6C8}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoginOperations", "LoginOperations", "{727B539E-A4BD-4AB6-B098-7C5C6829B5AC}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginOperationsProject", "LoginOperations-Folder\LoginOperationsProject\LoginOperationsProject.csproj", "{0F7F1C40-55AC-48C9-9909-B6305A92B722}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedArraysProject", "MixedProblems-Folder\NestedArraysProject\NestedArraysProject.csproj", "{724AC038-6BA3-42FF-BF58-DC5A9292881C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonReviewApp.Tests", "APIProject-Folder\PokemonReviewApp.Tests\PokemonReviewApp.Tests.csproj", "{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonReviewApp.Tests", "APIProject-Folder\PokemonReviewApp.Tests\PokemonReviewApp.Tests.csproj", "{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,18 +19,6 @@ Global
 		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99760455-C60B-4FB8-8817-6EE3FBC54845}.Release|Any CPU.Build.0 = Release|Any CPU
-		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{543D60EB-CDC2-444F-89EB-A712E08AA6C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F7F1C40-55AC-48C9-9909-B6305A92B722}.Release|Any CPU.Build.0 = Release|Any CPU
-		{724AC038-6BA3-42FF-BF58-DC5A9292881C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{724AC038-6BA3-42FF-BF58-DC5A9292881C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{724AC038-6BA3-42FF-BF58-DC5A9292881C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{724AC038-6BA3-42FF-BF58-DC5A9292881C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953DBD55-BACA-46A5-A6F6-4F7D06FDD075}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,9 +29,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{99760455-C60B-4FB8-8817-6EE3FBC54845} = {E428AAE5-488B-4527-9FCA-4649637C93CB}
-		{543D60EB-CDC2-444F-89EB-A712E08AA6C8} = {7D2A8ADB-B070-466D-B695-01A44432F09C}
-		{0F7F1C40-55AC-48C9-9909-B6305A92B722} = {727B539E-A4BD-4AB6-B098-7C5C6829B5AC}
-		{724AC038-6BA3-42FF-BF58-DC5A9292881C} = {7D2A8ADB-B070-466D-B695-01A44432F09C}
 		{953DBD55-BACA-46A5-A6F6-4F7D06FDD075} = {E428AAE5-488B-4527-9FCA-4649637C93CB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

@@ -1,0 +1,15 @@
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\bin\Debug\net8.0\RandomProblems.exe
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\bin\Debug\net8.0\RandomProblems.deps.json
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\bin\Debug\net8.0\RandomProblems.runtimeconfig.json
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\bin\Debug\net8.0\RandomProblems.dll
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\bin\Debug\net8.0\RandomProblems.pdb
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.AssemblyInfo.cs
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.sourcelink.json
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.dll
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\refint\RandomProblems.dll
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.pdb
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\RandomProblems.genruntimeconfig.cache
+C:\Users\onurc\source\repos\FreeWork\MyDreamWorld\RandomProblems\obj\Debug\net8.0\ref\RandomProblems.dll

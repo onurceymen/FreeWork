@@ -1,0 +1,6 @@
+C:\Users\onurc\source\repos\FreeWork\ApiFundamentals\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\onurc\source\repos\FreeWork\ApiFundamentals\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\FreeWork\ApiFundamentals\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\FreeWork\ApiFundamentals\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.AssemblyInfo.cs
+C:\Users\onurc\source\repos\FreeWork\ApiFundamentals\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\FreeWork\ApiFundamentals\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.sourcelink.json

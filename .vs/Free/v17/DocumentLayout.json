@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\FreeWork\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D166933-15BC-4379-93CC-D7BBD43187AF}|DataStructuresAndAlgorithmFundamentals\\Algorithms\\Algorithms.csproj|c:\\users\\onurc\\source\\repos\\freework\\datastructuresandalgorithmfundamentals\\algorithms\\algorithmicprograms\\obeb_okek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D166933-15BC-4379-93CC-D7BBD43187AF}|DataStructuresAndAlgorithmFundamentals\\Algorithms\\Algorithms.csproj|solutionrelative:datastructuresandalgorithmfundamentals\\algorithms\\algorithmicprograms\\obeb_okek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OBEB_OKEK.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\Algorithms\\AlgorithmicPrograms\\OBEB_OKEK.cs",
+              "RelativeDocumentMoniker": "DataStructuresAndAlgorithmFundamentals\\Algorithms\\AlgorithmicPrograms\\OBEB_OKEK.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\Algorithms\\AlgorithmicPrograms\\OBEB_OKEK.cs",
+              "RelativeToolTip": "DataStructuresAndAlgorithmFundamentals\\Algorithms\\AlgorithmicPrograms\\OBEB_OKEK.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:07:59.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

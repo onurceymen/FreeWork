@@ -11,21 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyDreamWorld", "MyDreamWorl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomProblems", "MyDreamWorld\RandomProblems\RandomProblems.csproj", "{38BBF1B5-570A-4761-A08E-B73C8EDFEE29}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiFundamentals", "ApiFundamentals", "{FD2C50E5-89D1-48FC-B6E2-72C2816EB3DA}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantsAPI", "ApiFundamentals\RestaurantsAPI\RestaurantsAPI.csproj", "{851EF056-31B1-406D-A992-E5760E1A2FD7}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurants.Application", "ApiFundamentals\Restaurants.Application\Restaurants.Application.csproj", "{60837DC8-0D36-42B2-A8C6-56CAF466922D}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurants.Domain", "ApiFundamentals\Restaurants.Domain\Restaurants.Domain.csproj", "{D559AD81-5155-4571-AD18-E4ACB8AA4DB5}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurants.Infrastructure", "ApiFundamentals\Restaurants.Infrastructure\Restaurants.Infrastructure.csproj", "{56605525-DD4A-4875-BC37-DEDA0BC57DE9}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructuresAndAlgorithmFundamentals", "DataStructuresAndAlgorithmFundamentals", "{484F6CCF-20CB-4594-BB4E-0FAC3299F1D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "DataStructuresAndAlgorithmFundamentals\Algorithms\Algorithms.csproj", "{8D166933-15BC-4379-93CC-D7BBD43187AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "DataStructuresAndAlgorithmFundamentals\Algorithms\Algorithms.csproj", "{8D166933-15BC-4379-93CC-D7BBD43187AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructuresAndAlgorithmFundamentals\DataStructures\DataStructures.csproj", "{871038A0-DB6D-439D-8AC1-3E973F071065}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "DataStructuresAndAlgorithmFundamentals\DataStructures\DataStructures.csproj", "{871038A0-DB6D-439D-8AC1-3E973F071065}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,22 +31,6 @@ Global
 		{38BBF1B5-570A-4761-A08E-B73C8EDFEE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38BBF1B5-570A-4761-A08E-B73C8EDFEE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38BBF1B5-570A-4761-A08E-B73C8EDFEE29}.Release|Any CPU.Build.0 = Release|Any CPU
-		{851EF056-31B1-406D-A992-E5760E1A2FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{851EF056-31B1-406D-A992-E5760E1A2FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{851EF056-31B1-406D-A992-E5760E1A2FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{851EF056-31B1-406D-A992-E5760E1A2FD7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60837DC8-0D36-42B2-A8C6-56CAF466922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60837DC8-0D36-42B2-A8C6-56CAF466922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60837DC8-0D36-42B2-A8C6-56CAF466922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60837DC8-0D36-42B2-A8C6-56CAF466922D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D559AD81-5155-4571-AD18-E4ACB8AA4DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D559AD81-5155-4571-AD18-E4ACB8AA4DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D559AD81-5155-4571-AD18-E4ACB8AA4DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D559AD81-5155-4571-AD18-E4ACB8AA4DB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{56605525-DD4A-4875-BC37-DEDA0BC57DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56605525-DD4A-4875-BC37-DEDA0BC57DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56605525-DD4A-4875-BC37-DEDA0BC57DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56605525-DD4A-4875-BC37-DEDA0BC57DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8D166933-15BC-4379-93CC-D7BBD43187AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8D166933-15BC-4379-93CC-D7BBD43187AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D166933-15BC-4379-93CC-D7BBD43187AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -72,10 +46,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C6A2C0D4-E7FA-4ED6-95E5-05D0ED76799E} = {A0EE6043-A45D-4F69-BD32-8C53C31D8EDB}
 		{38BBF1B5-570A-4761-A08E-B73C8EDFEE29} = {AF03F81D-6D4D-46A7-8F48-429B6F69A21F}
-		{851EF056-31B1-406D-A992-E5760E1A2FD7} = {FD2C50E5-89D1-48FC-B6E2-72C2816EB3DA}
-		{60837DC8-0D36-42B2-A8C6-56CAF466922D} = {FD2C50E5-89D1-48FC-B6E2-72C2816EB3DA}
-		{D559AD81-5155-4571-AD18-E4ACB8AA4DB5} = {FD2C50E5-89D1-48FC-B6E2-72C2816EB3DA}
-		{56605525-DD4A-4875-BC37-DEDA0BC57DE9} = {FD2C50E5-89D1-48FC-B6E2-72C2816EB3DA}
 		{8D166933-15BC-4379-93CC-D7BBD43187AF} = {484F6CCF-20CB-4594-BB4E-0FAC3299F1D5}
 		{871038A0-DB6D-439D-8AC1-3E973F071065} = {484F6CCF-20CB-4594-BB4E-0FAC3299F1D5}
 	EndGlobalSection

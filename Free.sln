@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "DataStructure
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "DataStructuresAndAlgorithmFundamentals\DataStructures\DataStructures.csproj", "{871038A0-DB6D-439D-8AC1-3E973F071065}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FundamentalsBackend", "FundamentalsBackend", "{8D3E5E3F-C42E-49D0-BDD1-6CB36FC1B6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMesage", "FundamentalsBackend\SendMesage\SendMesage.csproj", "{C3131295-62E8-44E8-9377-97D0CAAF96C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{871038A0-DB6D-439D-8AC1-3E973F071065}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871038A0-DB6D-439D-8AC1-3E973F071065}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{871038A0-DB6D-439D-8AC1-3E973F071065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3131295-62E8-44E8-9377-97D0CAAF96C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3131295-62E8-44E8-9377-97D0CAAF96C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3131295-62E8-44E8-9377-97D0CAAF96C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3131295-62E8-44E8-9377-97D0CAAF96C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{38BBF1B5-570A-4761-A08E-B73C8EDFEE29} = {AF03F81D-6D4D-46A7-8F48-429B6F69A21F}
 		{8D166933-15BC-4379-93CC-D7BBD43187AF} = {484F6CCF-20CB-4594-BB4E-0FAC3299F1D5}
 		{871038A0-DB6D-439D-8AC1-3E973F071065} = {484F6CCF-20CB-4594-BB4E-0FAC3299F1D5}
+		{C3131295-62E8-44E8-9377-97D0CAAF96C7} = {8D3E5E3F-C42E-49D0-BDD1-6CB36FC1B6F3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1CB0F497-2429-40A0-8107-4D78F41FC16C}

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\FreeWork\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D166933-15BC-4379-93CC-D7BBD43187AF}|DataStructuresAndAlgorithmFundamentals\\Algorithms\\Algorithms.csproj|c:\\users\\onurc\\source\\repos\\freework\\datastructuresandalgorithmfundamentals\\algorithms\\whatis\\examplereadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D166933-15BC-4379-93CC-D7BBD43187AF}|DataStructuresAndAlgorithmFundamentals\\Algorithms\\Algorithms.csproj|solutionrelative:datastructuresandalgorithmfundamentals\\algorithms\\whatis\\examplereadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871038A0-DB6D-439D-8AC1-3E973F071065}|DataStructuresAndAlgorithmFundamentals\\DataStructures\\DataStructures.csproj|c:\\users\\onurc\\source\\repos\\freework\\datastructuresandalgorithmfundamentals\\datastructures\\arrays\\arrayscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871038A0-DB6D-439D-8AC1-3E973F071065}|DataStructuresAndAlgorithmFundamentals\\DataStructures\\DataStructures.csproj|solutionrelative:datastructuresandalgorithmfundamentals\\datastructures\\arrays\\arrayscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +59,36 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1206969840:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleReadOnly.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "RelativeDocumentMoniker": "DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "RelativeToolTip": "DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:50:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArraysCode.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "RelativeDocumentMoniker": "DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "RelativeToolTip": "DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:49:47.78Z",
+              "EditorCaption": ""
             }
           ]
         }

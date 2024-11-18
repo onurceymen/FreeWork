@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\FreeWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3131295-62E8-44E8-9377-97D0CAAF96C7}|FundamentalsBackend\\SendMesage\\SendMesage.csproj|c:\\users\\onurc\\source\\repos\\freework\\fundamentalsbackend\\sendmesage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3131295-62E8-44E8-9377-97D0CAAF96C7}|FundamentalsBackend\\SendMesage\\SendMesage.csproj|solutionrelative:fundamentalsbackend\\sendmesage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D166933-15BC-4379-93CC-D7BBD43187AF}|DataStructuresAndAlgorithmFundamentals\\Algorithms\\Algorithms.csproj|c:\\users\\onurc\\source\\repos\\freework\\datastructuresandalgorithmfundamentals\\algorithms\\whatis\\examplereadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D166933-15BC-4379-93CC-D7BBD43187AF}|DataStructuresAndAlgorithmFundamentals\\Algorithms\\Algorithms.csproj|solutionrelative:datastructuresandalgorithmfundamentals\\algorithms\\whatis\\examplereadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871038A0-DB6D-439D-8AC1-3E973F071065}|DataStructuresAndAlgorithmFundamentals\\DataStructures\\DataStructures.csproj|c:\\users\\onurc\\source\\repos\\freework\\datastructuresandalgorithmfundamentals\\datastructures\\arrays\\arrayscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871038A0-DB6D-439D-8AC1-3E973F071065}|DataStructuresAndAlgorithmFundamentals\\DataStructures\\DataStructures.csproj|solutionrelative:datastructuresandalgorithmfundamentals\\datastructures\\arrays\\arrayscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,14 +67,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\FundamentalsBackend\\SendMesage\\Program.cs",
-              "RelativeDocumentMoniker": "FundamentalsBackend\\SendMesage\\Program.cs",
-              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\FundamentalsBackend\\SendMesage\\Program.cs",
-              "RelativeToolTip": "FundamentalsBackend\\SendMesage\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwEwAAAADAAAAAAAAAA==",
+              "Title": "ExampleReadOnly.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "RelativeDocumentMoniker": "DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "RelativeToolTip": "DataStructuresAndAlgorithmFundamentals\\Algorithms\\WhatIS\\ExampleReadOnly.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T19:29:39.361Z",
+              "WhenOpened": "2024-11-18T13:50:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArraysCode.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "RelativeDocumentMoniker": "DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\FreeWork\\DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "RelativeToolTip": "DataStructuresAndAlgorithmFundamentals\\DataStructures\\Arrays\\ArraysCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:49:47.78Z",
               "EditorCaption": ""
             }
           ]
